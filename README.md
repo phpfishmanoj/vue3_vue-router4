@@ -8,11 +8,11 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 
 ## To start 
-[Volar] npm create vite@latest
-[Volar] project name: vue_vite_router4
-[Volar] Select a Framework: vue
-select a variant: JavaScript
+- npm create vite@latest
+- project name: vue_vite_router4
+- Select a Framework: vue
+- select a variant: JavaScript
 -------------
-cd vue_vite_router4
-npm install
-npm run dev
+- cd vue_vite_router4
+- npm install
+- npm run dev
