@@ -1,8 +1,11 @@
 <script setup>
+import Navbar from './components/Navbar.vue';
 </script>
 
 <template>
-  <h1>Header</h1>
-  <RouterView />
+  <div class="max-w-7xl max-auto">
+    <Navbar />
+    <RouterView />
+  </div>
 </template>
 
