@@ -1,0 +1,32 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Lion King",
+            "year": "2019",
+            "runtime": "118 min",
+            "poster": "https://qqcdnpictest.mxplay.com/pic/55bea21a722772b2e8ab6fef5826db72/en/2x3/320x480/test_pic1620817884189.webp"
+        },
+        {
+            "id": 2,
+            "title": "John Wick",
+            "year": "2014",
+            "runtime": "101 min",
+            "poster": "https://southfans.com/wp-content/uploads/2021/08/RENDU-JELLA-SEETHA.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Doctor Strange",
+            "year": "2016",
+            "runtime": "116 min",
+            "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:q-80/et00323311-qmusmkajwp-portrait.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Mogli: Legend of the Jungle",
+            "year": "2018",
+            "runtime": "104 min",
+            "poster": "https://qqcdnpictest.mxplay.com/pic/8915a14a4ab376912c0c8d12f493c656/en/2x3/320x480/test_pic1620827272894.webp"
+        }
+    ]
+}
